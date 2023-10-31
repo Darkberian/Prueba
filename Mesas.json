@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "descripcion": "mesa_1",
+    "orden": 1,
+    "activa": true,
+    "n_personas": 6
+  },
+  {
+    "id": 2,
+    "descripcion": "mesa_2",
+    "orden": 2,
+    "activa": true,
+    "n_personas": 6
+  },
+  {
+    "id": 3,
+    "descripcion": "mesa_3",
+    "orden": 3,
+    "activa": true,
+    "n_personas": 6
+  },
+  {
+    "id": 4,
+    "descripcion": "mesa_4",
+    "orden": 4,
+    "activa": true,
+    "n_personas": 6
+  },
+  {
+    "id": 5,
+    "descripcion": "mesa_5",
+    "orden": 5,
+    "activa": true,
+    "n_personas": 6
+  },
+  {
+    "id": 6,
+    "descripcion": "mesa_6",
+    "orden": 6,
+    "activa": true,
+    "n_personas": 6
+  },
+  {
+    "id": 7,
+    "descripcion": "mesa_7",
+    "orden": 7,
+    "activa": true,
+    "n_personas": 6
+  },
+  {
+    "id": 8,
+    "descripcion": "mesa_8",
+    "orden": 8,
+    "activa": true,
+    "n_personas": 6
+  },
+  {
+    "id": 9,
+    "descripcion": "mesa_9",
+    "orden": 9,
+    "activa": true,
+    "n_personas": 6
+  },
+  {
+    "id": 10,
+    "descripcion": "mesa_10",
+    "orden": 10,
+    "activa": true,
+    "n_personas": 6
+  }
+]
